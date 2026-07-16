@@ -78,6 +78,3 @@ docs/DEPLOY.md        部署步骤
 CLAUDE.md             项目约定与设计决策（给 AI 编程助手看的开发指南）
 ```
 
-## 开发约定
-
-详见 [CLAUDE.md](CLAUDE.md)：技术栈、关键设计决策、数据库约定、MVP 范围等。
