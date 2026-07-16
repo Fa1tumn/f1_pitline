@@ -73,8 +73,5 @@ app/                  Next.js App Router 页面
 components/           React 组件
 lib/                  Supabase 客户端、圈速/难度计算逻辑、类型定义
 supabase/schema.sql   建表 SQL + RLS 策略 + 赛道种子数据（含完整难度曲线）
-docs/ARCHITECTURE.md  架构文档（页面、数据流、权限规则）
-docs/DEPLOY.md        部署步骤
-CLAUDE.md             项目约定与设计决策（给 AI 编程助手看的开发指南）
 ```
 
